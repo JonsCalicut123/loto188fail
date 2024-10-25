@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+LOTO188 - Trang chủ chính thức - Đỉnh cao của giải trí trực tuyến
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`LOTO188 <https://loto188.fail/>`_ đã nhanh chóng khẳng định vị thế trong làng giải trí cá cược từ năm 2024, nổi bật với sự đa dạng các loại hình cá cược như lô đề, xổ số và sòng bạc. LOTO188 mang đến trải nghiệm mượt mà nhờ giao diện tối ưu, đồng thời ghi điểm nhờ chính sách bảo mật hiện đại và dịch vụ khách hàng tận tâm. Các chương trình khuyến mãi hấp dẫn thường xuyên giúp tăng sức hút của LOTO188. Được bảo hộ bởi PAGCOR, LOTO188 cam kết cung cấp không gian cá cược minh bạch, an toàn và không ngừng mở rộng ra quốc tế.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 20/9A Đ.Đỗ Nhuận, Sơn Kỳ, Tân Phú, Hồ Chí Minh, Vietnam. 
 
-   This project is under active development.
+Phone: 0392315469. 
 
-Contents
---------
+Email: info@loto188.fail. 
 
-.. toctree::
+Website: https://loto188.fail/ 
 
-   usage
-   api
+#loto188 #trangchuloto188 #dangkyloto188 #dangnhaploto188 #linkloto188
